@@ -1,5 +1,8 @@
 package calcapp.main;
 import calcapp.logics.CalcLogic;
+// calcapp.main と calcapp.logics に所属する全てのパッケージをインポートしたい場合は下記2行のように記述する
+// import calcapp.main.*;
+// import calcapp.logics.*;
 
 // chap06
 // list06-01-09
